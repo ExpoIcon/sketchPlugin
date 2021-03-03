@@ -1,0 +1,2 @@
+# sketchPlugin
+ExpoIcon sketch plugin
